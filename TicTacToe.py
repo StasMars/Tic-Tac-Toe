@@ -6,7 +6,8 @@ class Cell:
 
     def __bool__(self):
         return self.value == 0
-    
+
+""" Create class TicTacToe """
 
 class TicTacToe:
     FREE_CELL = 0      # свободная клетка
