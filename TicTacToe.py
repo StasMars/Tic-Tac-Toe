@@ -1,5 +1,7 @@
 from random import randint
 
+""" Create class Cell """
+
 class Cell:
     def __init__(self):
         self.value = 0
